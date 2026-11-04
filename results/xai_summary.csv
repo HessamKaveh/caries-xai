@@ -1,0 +1,13 @@
+arch,method,pointing,mass,lift,pix_auroc,deletion_auc,insertion_auc
+efficientnet_b0,Centre prior,0.2367,0.0758,1.3951,0.6741,0.3898,0.7073
+efficientnet_b0,Grad-CAM,0.5367,0.1477,3.2938,0.8254,0.2478,0.8509
+efficientnet_b0,Grad-CAM++,0.5533,0.17,3.8449,0.854,0.2332,0.8373
+efficientnet_b0,Integrated Gradients,0.6433,0.1607,3.7826,0.8476,0.1703,0.861
+efficientnet_b0,Occlusion,0.6167,0.2004,5.2012,0.7247,0.2824,0.8702
+efficientnet_b0,Random,0.05,0.0534,0.9996,0.4944,0.6699,0.6731
+resnet50,Centre prior,0.2367,0.0758,1.3951,0.6741,0.4438,0.7807
+resnet50,Grad-CAM,0.5467,0.1922,4.3475,0.8335,0.3365,0.8709
+resnet50,Grad-CAM++,0.5533,0.1848,4.1169,0.8528,0.3324,0.873
+resnet50,Integrated Gradients,0.71,0.2192,5.3107,0.8748,0.2848,0.861
+resnet50,Occlusion,0.6067,0.2306,5.6909,0.7182,0.4019,0.8984
+resnet50,Random,0.05,0.0534,0.9996,0.4944,0.8315,0.8265

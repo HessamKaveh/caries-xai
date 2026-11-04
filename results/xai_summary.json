@@ -1,0 +1,98 @@
+{
+  "efficientnet_b0|Centre prior": {
+    "pointing": 0.2367,
+    "mass": 0.0758,
+    "lift": 1.3951,
+    "pix_auroc": 0.6741,
+    "deletion_auc": 0.3898,
+    "insertion_auc": 0.7073
+  },
+  "efficientnet_b0|Grad-CAM": {
+    "pointing": 0.5367,
+    "mass": 0.1477,
+    "lift": 3.2938,
+    "pix_auroc": 0.8254,
+    "deletion_auc": 0.2478,
+    "insertion_auc": 0.8509
+  },
+  "efficientnet_b0|Grad-CAM++": {
+    "pointing": 0.5533,
+    "mass": 0.17,
+    "lift": 3.8449,
+    "pix_auroc": 0.854,
+    "deletion_auc": 0.2332,
+    "insertion_auc": 0.8373
+  },
+  "efficientnet_b0|Integrated Gradients": {
+    "pointing": 0.6433,
+    "mass": 0.1607,
+    "lift": 3.7826,
+    "pix_auroc": 0.8476,
+    "deletion_auc": 0.1703,
+    "insertion_auc": 0.861
+  },
+  "efficientnet_b0|Occlusion": {
+    "pointing": 0.6167,
+    "mass": 0.2004,
+    "lift": 5.2012,
+    "pix_auroc": 0.7247,
+    "deletion_auc": 0.2824,
+    "insertion_auc": 0.8702
+  },
+  "efficientnet_b0|Random": {
+    "pointing": 0.05,
+    "mass": 0.0534,
+    "lift": 0.9996,
+    "pix_auroc": 0.4944,
+    "deletion_auc": 0.6699,
+    "insertion_auc": 0.6731
+  },
+  "resnet50|Centre prior": {
+    "pointing": 0.2367,
+    "mass": 0.0758,
+    "lift": 1.3951,
+    "pix_auroc": 0.6741,
+    "deletion_auc": 0.4438,
+    "insertion_auc": 0.7807
+  },
+  "resnet50|Grad-CAM": {
+    "pointing": 0.5467,
+    "mass": 0.1922,
+    "lift": 4.3475,
+    "pix_auroc": 0.8335,
+    "deletion_auc": 0.3365,
+    "insertion_auc": 0.8709
+  },
+  "resnet50|Grad-CAM++": {
+    "pointing": 0.5533,
+    "mass": 0.1848,
+    "lift": 4.1169,
+    "pix_auroc": 0.8528,
+    "deletion_auc": 0.3324,
+    "insertion_auc": 0.873
+  },
+  "resnet50|Integrated Gradients": {
+    "pointing": 0.71,
+    "mass": 0.2192,
+    "lift": 5.3107,
+    "pix_auroc": 0.8748,
+    "deletion_auc": 0.2848,
+    "insertion_auc": 0.861
+  },
+  "resnet50|Occlusion": {
+    "pointing": 0.6067,
+    "mass": 0.2306,
+    "lift": 5.6909,
+    "pix_auroc": 0.7182,
+    "deletion_auc": 0.4019,
+    "insertion_auc": 0.8984
+  },
+  "resnet50|Random": {
+    "pointing": 0.05,
+    "mass": 0.0534,
+    "lift": 0.9996,
+    "pix_auroc": 0.4944,
+    "deletion_auc": 0.8315,
+    "insertion_auc": 0.8265
+  }
+}
