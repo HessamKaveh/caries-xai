@@ -1,0 +1,4 @@
+split,patients,images,images w/ caries,female %,mean age,Abrasion,Filling,Crown,Caries 1 class,Caries 2 class,Caries 3 class,Caries 4 class,Caries 5 class,Caries 6 class
+train,205,921,643,54.0,34.8,4416,1599,358,563,765,386,35,755,37
+val,31,133,86,54.9,34.0,629,294,34,88,130,42,12,128,4
+test,57,266,181,54.5,36.4,1302,480,197,146,203,77,0,176,16
