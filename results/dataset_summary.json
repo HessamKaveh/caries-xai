@@ -1,0 +1,56 @@
+{
+  "train": {
+    "images": 921,
+    "patients": 205,
+    "images_with_caries": 643,
+    "female_frac": 0.5396308360477742,
+    "age_mean": 34.79695982627579,
+    "instances": {
+      "Abrasion": 4416,
+      "Filling": 1599,
+      "Crown": 358,
+      "Caries 1 class": 563,
+      "Caries 2 class": 765,
+      "Caries 3 class": 386,
+      "Caries 4 class": 35,
+      "Caries 5 class": 755,
+      "Caries 6 class": 37
+    }
+  },
+  "val": {
+    "images": 133,
+    "patients": 31,
+    "images_with_caries": 86,
+    "female_frac": 0.5488721804511278,
+    "age_mean": 33.962406015037594,
+    "instances": {
+      "Abrasion": 629,
+      "Filling": 294,
+      "Crown": 34,
+      "Caries 1 class": 88,
+      "Caries 2 class": 130,
+      "Caries 3 class": 42,
+      "Caries 4 class": 12,
+      "Caries 5 class": 128,
+      "Caries 6 class": 4
+    }
+  },
+  "test": {
+    "images": 266,
+    "patients": 57,
+    "images_with_caries": 181,
+    "female_frac": 0.5451127819548872,
+    "age_mean": 36.3609022556391,
+    "instances": {
+      "Abrasion": 1302,
+      "Filling": 480,
+      "Crown": 197,
+      "Caries 1 class": 146,
+      "Caries 2 class": 203,
+      "Caries 3 class": 77,
+      "Caries 4 class": 0,
+      "Caries 5 class": 176,
+      "Caries 6 class": 16
+    }
+  }
+}
