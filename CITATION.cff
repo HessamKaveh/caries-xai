@@ -9,5 +9,6 @@ authors:
     affiliation: "Istituto Italiano di Tecnologia (IIT)"
 repository-code: "https://github.com/HessamKaveh/caries-xai"
 license: MIT
-version: 1.0.0
+doi: 10.5281/zenodo.24465863
+version: 1.1.0
 date-released: 2026-11-23
