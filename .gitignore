@@ -8,3 +8,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 logs/
+.pytest_cache/
+.ruff_cache/

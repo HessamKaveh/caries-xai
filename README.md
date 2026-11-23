@@ -1,5 +1,7 @@
 # CariesXAI
 
+[![CI](https://github.com/HessamKaveh/caries-xai/actions/workflows/ci.yml/badge.svg)](https://github.com/HessamKaveh/caries-xai/actions/workflows/ci.yml) ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ### Deep Learning for Dental Caries Detection Using Intraoral Images: Datasets, Models, and Explainability
 
 An end-to-end, reproducible study of caries detection on intraoral photographs. It covers the following:
@@ -196,7 +198,7 @@ results/               every number and figure reported above
 
 ## Citation
 
-If you use the data, please cite AlphaDent:
+To cite this code, use [CITATION.cff](CITATION.cff) (GitHub's "Cite this repository" button). If you use the data, please cite AlphaDent:
 
 ```bibtex
 @article{sosnin2025alphadent,

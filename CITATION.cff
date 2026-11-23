@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "CariesXAI"
+abstract: "Deep learning for dental caries detection using intraoral images: datasets, models, and explainability."
+authors:
+  - family-names: Kaveh
+    given-names: Hessam
+    affiliation: "Istituto Italiano di Tecnologia (IIT)"
+repository-code: "https://github.com/HessamKaveh/caries-xai"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-23

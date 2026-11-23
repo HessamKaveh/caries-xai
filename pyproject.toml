@@ -1,0 +1,13 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+extend-exclude = [".venv", "data", "runs", "weights", "logs"]
+
+[tool.ruff.lint]
+select = ["E", "F"]
+# E501: long lines; E702: compact research-style `a; b` one-liners.
+ignore = ["E501", "E702"]
